@@ -1,7 +1,7 @@
 
-## ★ Exploit3r ☠ | <img src="https://img.shields.io/badge/i-Exploit3r-white.svg">
+## ★ JExploit3r ☠ | 
 
-   Author: Joker-Security [ dev-labs ]
+   Author: Fouad ghaoui [ dark wlofs team ]
 
 ## ★ Description:
 
@@ -13,36 +13,23 @@ inurl:option=com_cckjseblod
 
 ## ★ Download:
 
-● git clone https://github.com/joker25000/exploit3r
+● git clone https://github.com/dz0ne/DWT_JOOMLA
 
 ## ★ USAGE:
 
-cd exploit3r
+cd Jexploit3r
 
 pip install -r requirements.txt
 
-python exploit3r.py -h
+python Jexploit3r.py -h
 
-python exploit3r.py -t Joomla.txt
+python Jexploit3r.py -t Joomla.txt
 
-python exploit3r.py --targets Joomla.txt
-
-
-## ★ Screenshot:
-
-<img src="https://i.imgur.com/xyQFfIZ.png" width="23%"></img> <img src="https://i.imgur.com/RKwRiIz.png" width="23%"></img> <img src="https://i.imgur.com/mc2gd7I.png" width="23%"></img> 
-
-## ★ video tutorial:
-[![ exploit3r - Joomla Auto Config Donwload ](https://i.ytimg.com/vi/9TpCUnKyzQk/hqdefault.jpg)](https://www.youtube.com/watch?v=9TpCUnKyzQk)
+python Jexploit3r.py --targets Joomla.txt
 
 
-## ★ About:
-
-● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-● Twitter : https://twitter.com/SecurityJoker
-
-● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
+## ★ 
+• fb : Facebook.com/dz0ne
 
 ● Tested On : Windows / Kali-Linux / Lxle-Linux
 
